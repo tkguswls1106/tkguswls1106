@@ -1,16 +1,15 @@
-### Hi there 👋
+  ### ✨ About 'Hyunjin Sa' ✨
+  👋 <strong>Sangmyeng Univ. Software 19th <br>
+  <br>
 
-<!--
-**tkguswls1106/tkguswls1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 📚 Tech Stack 📚
+  💻 <strong>C, HTML, CSS <br>
+  <br>
+  
+  ### 📧 Contact 📧
+  <strong>Naver mail: tkguswls1106@naver.com <br>
+  <strong>Gmail mail: tkguswls1106@gmail.com <br>
+  <br>
+    
+  ### 💌 Contact 💌
+  <strong>Instagram ID: sa.hyunjin<br>
