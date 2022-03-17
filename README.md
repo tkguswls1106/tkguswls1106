@@ -3,7 +3,7 @@
   <br>
 
   ### 📚 Tech Stack 📚
-  💻 <strong>C, HTML, CSS, Javascript, Python <br>
+  💻 <strong>C, Python, HTML, CSS, Javascript <br>
   <br>
   
   ### 📧 Contact 📧
