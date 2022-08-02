@@ -16,4 +16,4 @@
   <strong>Instagram ID: sa.hyunjin</strong> <br>
   <br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkguswls1106&show_icons=true&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham)
