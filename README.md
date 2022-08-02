@@ -1,9 +1,10 @@
   ### ✨ About 'Hyunjin Sa' ✨
-  👋 <strong>Sangmyeng Univ. Software 19th <br>
+  :european_post_office:&nbsp;&nbsp;<strong>Sangmyeng Univ. Software 19th <br>
   <br>
 
   ### 📚 Tech Stack 📚
-  💻 <strong>C, Python, Java, HTML, CSS, Javascript / Django <br>
+  💻&nbsp;&nbsp;<strong>C, Python, Java, HTML, CSS, Javascript <br>
+  :wrench:&nbsp;&nbsp;Django <br>
   <br>
   
   ### 📧 Contact 📧
