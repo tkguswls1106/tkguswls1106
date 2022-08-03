@@ -5,6 +5,8 @@
   ### 📚 Tech Stack 📚
   💻&nbsp;&nbsp;<strong>C, Python, Java, HTML, CSS, Javascript</strong> <br>
   :wrench:&nbsp;&nbsp;<strong>Django Framework</strong> <br>
+  <strong><em>ing+</em></strong>&nbsp;&nbsp;Thymeleaf, Spring Boot <br>
+  <strong><em>will+</em></strong>&nbsp;&nbsp;React.js, Swift <br>
   <br>
   
   ### 📧 Contact 📧
