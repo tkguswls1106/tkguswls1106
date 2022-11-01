@@ -3,7 +3,7 @@
 ---
 ## 👋 `Who am I?`
 - **Name**:&nbsp;&nbsp;사현진 (HYUNJIN SA)
-- **University**:&nbsp;&nbsp;Sangmyeng Univ. Software 19th
+- **University**:&nbsp;&nbsp;Sangmyung Univ. Software 19th
 - **Contact**:&nbsp;&nbsp;<a href="https://www.instagram.com/sa.hyunjin/">
     <img src="http://img.shields.io/badge/-Instagram-FFC0CB?style=flat&logo=Instagram&link=https://www.instagram.com/sa.hyunjin/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="mailto:tkguswls1106@naver.com?subject=Contact GitHub HyunjinSa">
