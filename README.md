@@ -80,5 +80,5 @@
 </div>
   
 ---
-## `Github Stats`
+## `GitHub Stats`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham)
