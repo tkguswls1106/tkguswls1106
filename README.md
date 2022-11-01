@@ -2,7 +2,7 @@
 ### 성공은 작은 노력들의 모인 총합이다. 반복적인 하루 하루를 보내는 것이다.
 ---
 ## 👋 `Who am I?`
-- **Name**:&nbsp;&nbsp;사현진 (HYUJIN SA)
+- **Name**:&nbsp;&nbsp;사현진 (HYUNJIN SA)
 - **University**:&nbsp;&nbsp;Sangmyeng Univ. Software 19th
 - **Contact**:&nbsp;&nbsp;<a href="https://www.instagram.com/sa.hyunjin/">
     <img src="http://img.shields.io/badge/-Instagram-FFC0CB?style=flat&logo=Instagram&link=https://www.instagram.com/sa.hyunjin/"
