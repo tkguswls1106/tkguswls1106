@@ -4,6 +4,7 @@
 ## `Who am I?`
 - **Name**:&nbsp;&nbsp;사현진 (HYUJIN SA)
 - **University**:&nbsp;&nbsp;Sangmyeng Univ. Software 19th
+- **Contact**:&nbsp;&nbsp;instagram, naver mail, gmail
 ---
 ## `Personal Web Project`
 - **상명대생 오늘 어디서 먹지?**:&nbsp;&nbsp;<a href="http://www.sahyunjin.com/SMUeat/">www.sahyunjin.com/SMUeat<a/> <br>
@@ -52,10 +53,6 @@ react.js, thymeleaf, swift
 uwsgi, nginx, mysql
 
 </div>
-  
----
-## `Contact`
-instagram, naver mail, gmail
   
 ---
 ## `Github Stats`
