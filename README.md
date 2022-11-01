@@ -1,7 +1,7 @@
 ## “Success is the sum of small efforts – repeated day in and day out.” 
 ### 성공은 작은 노력들의 모인 총합이다. 반복적인 하루 하루를 보내는 것이다.
 ---
-## `Who am I?`
+## 👋 `Who am I?`
 - **Name**:&nbsp;&nbsp;사현진 (HYUJIN SA)
 - **University**:&nbsp;&nbsp;Sangmyeng Univ. Software 19th
 - **Contact**:&nbsp;&nbsp;<a href="https://www.instagram.com/sa.hyunjin/">
@@ -12,7 +12,7 @@
     <img src="http://img.shields.io/badge/-Gmail-F06B66?style=flat&logo=Gmail"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
-## `Personal Web Project`
+## 🧑‍💻 `Personal Web Project`
 - **상명대생 오늘 어디서 먹지?**:&nbsp;&nbsp;<a href="http://www.sahyunjin.com/SMUeat/">www.sahyunjin.com/SMUeat<a/> <br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
   &#8594; ***Technology used***:
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 ---
-## `Technologies`
+## 💻 `Technologies`
 
 ### Proficient
 
@@ -86,5 +86,5 @@
 </div>
   
 ---
-## `GitHub Stats`
+## 📈 `GitHub Stats`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham)
