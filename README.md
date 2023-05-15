@@ -12,7 +12,7 @@
     <img src="http://img.shields.io/badge/-Gmail-F06B66?style=flat&logo=Gmail"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
-## 🧑‍💻`FullStack Web Project`
+## 🧑‍💻 `FullStack Project`
 - **상명대생 오늘 어디서 먹지?**<br>:
   <a href="http://www.sahyunjin.com/SMUeat/">www.sahyunjin.com/SMUeat<a/> <br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/uWSGI-00A98F?style=flat-square&logo=uWSGI&logoColor=white"/></a>
-- **Coming soon website** <br>
+- **Coming soon 'website & app'** <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
   <img src="https://img.shields.io/badge/React.js-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
