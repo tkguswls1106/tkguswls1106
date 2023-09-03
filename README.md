@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/uWSGI-00A98F?style=flat-square&logo=uWSGI&logoColor=white"/></a>
-- **Coming soon 'website & app'** <br>
+- **온라인 메모장**<br>
+  : Website link&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://www.onlinememo.kr">www.OnlineMemo.kr<a/> <br>
+  : Android app&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">Play Store download<a/> <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
   <img src="https://img.shields.io/badge/React.js-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
