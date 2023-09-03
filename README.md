@@ -33,6 +33,7 @@
 - **온라인 메모장**<br>
   : Website link&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://www.onlinememo.kr">www.OnlineMemo.kr<a/> <br>
   : Android app&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">Play Store download<a/> <br>
+  &#8594; ***Description***:&nbsp;&nbsp;Collaborative online notepad <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
   <img src="https://img.shields.io/badge/React.js-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
