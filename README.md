@@ -50,8 +50,6 @@
 ---
 ## 💻 `Technologies`
 
-### Proficient 💪
-
 <div align=center>
 
 #### [ Language ]
@@ -77,19 +75,6 @@
 #### [ IDE ]
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
-
-</div>
-
-### Underskilled 💡
-
-<div align=center>
-
-#### [ Front-End ]
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-#### [ etc ]
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 
 </div>
   
