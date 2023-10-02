@@ -13,8 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
 ## 🧑‍💻 `FullStack Project`
-- **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>:
-  <a href="http://www.sahyunjin.com/SMUeat/">www.sahyunjin.com/SMUeat<a/> <br>
+- **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
