@@ -12,7 +12,7 @@
     <img src="http://img.shields.io/badge/-Gmail-F06B66?style=flat&logo=Gmail"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
-## 🧑‍💻 `FullStack Project`
+## 🧑‍💻 `Operational Project`
 - **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>
   &#8594; ***Operation***:&nbsp;&nbsp;2022/08/31 ~ 2023/07/12<br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
