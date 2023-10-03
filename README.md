@@ -14,6 +14,7 @@
 ---
 ## 🧑‍💻 `FullStack Project`
 - **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>
+  &#8594; ***Operation***:&nbsp;&nbsp;2022/08/31 ~ 2023/07/12<br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
@@ -32,6 +33,7 @@
 - **온라인 메모장 (운영중)**<br>
   : Website link&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://www.onlinememo.kr">www.OnlineMemo.kr</a> <br>
   : Android app&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">Play Store download<a/> <br>
+  &#8594; ***Operation***:&nbsp;&nbsp;2023/09/03 ~ ing<br>
   &#8594; ***Description***:&nbsp;&nbsp;Collaborative online notepad <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
