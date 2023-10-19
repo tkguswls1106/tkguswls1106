@@ -14,7 +14,7 @@
 ---
 ## 🧑‍💻 `Operational Project`
 - **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>
-  &#8594; ***Operation***:&nbsp;&nbsp;2022/08/31 ~ 2023/07/12<br>
+  &#8594; ***Operation***:&nbsp;&nbsp;2022/08/31 ~ 2023/09/01<br>
   &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
   &#8594; ***Technology used***:
   - [ Front-End ]<br>
