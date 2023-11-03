@@ -85,5 +85,8 @@
   
 ---
 ## 📈 `GitHub Stats`
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&include_all_commits=true&hide=prs) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318)
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&include_all_commits=true&hide=prs"
+        style="height : 165px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318" />
+</div>
