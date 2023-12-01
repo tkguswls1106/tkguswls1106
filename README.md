@@ -86,9 +86,8 @@
 ---
 ## 📈 `GitHub Stats`
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=prs&include_all_commits=true"
-        style="height : 165px;" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=prs&include_all_commits=true"
+        style="height : 165px;" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=prs" style="height : 165px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318" />
 </div>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=prs" style="height : 165px;" /> -->
