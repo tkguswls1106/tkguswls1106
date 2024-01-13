@@ -2,7 +2,7 @@
 - **Name**:&nbsp;&nbsp;사현진 (HYUNJIN SA)
 - **University**:&nbsp;&nbsp;Sangmyung Univ. Software 19th
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
-- **`Portfolio`** : [Click here!](https://sahyunjin.com/)
+- **`Portfolio 📄`** : [Click here!](https://sahyunjin.com/)
 
 ## ✨ Experiences
 |활동|기간|비고|
@@ -17,42 +17,27 @@
 
 ---
 ## 🧑‍💻 Projects
-- **상명대생 오늘 어디서 먹지? (1년 운영종료)**<br>
-  &#8594; ***Operation***:&nbsp;&nbsp;2022/08/31 ~ 2023/09/01<br>
-  &#8594; ***Description***:&nbsp;&nbsp;Restaurant and bar ranking site near Sangmyung University <br>
-  &#8594; ***Technology used***:
-  - [ Front-End ]<br>
-  <img src="https://img.shields.io/badge/Django Template Engine-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-  - [ Back-End ]<br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a><br>
-  - [ etc ]<br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/uWSGI-00A98F?style=flat-square&logo=uWSGI&logoColor=white"/></a>
-- **온라인 메모장 (운영중)**<br>
-  : Website link&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://www.onlinememo.kr">www.OnlineMemo.kr</a> <br>
-  : Android app&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">Play Store download<a/> <br>
-  &#8594; ***Operation***:&nbsp;&nbsp;2023/09/03 ~ ing<br>
-  &#8594; ***Description***:&nbsp;&nbsp;Collaborative online notepad <br>
-  &#8594; ***Technology used***:
-  - [ Front-End ]<br>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React Native-008FC7?style=flat-square&logo=React Native&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-  - [ Back-End ]<br>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
-  - [ Security ]<br>
-  <img src="https://img.shields.io/badge/Spring Security-00A98F?style=flat-square&logo=Spring Security&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JSON Web Token-9933CC?style=flat-square&logo=JSON Web Tokens&logoColor=white"/></a><br>
-  - [ etc ]<br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+- **상명대 eat**&nbsp;(2022) <br>
+: 상명대학교 주변 식당 순위표 서비스 <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Django Template Engine), BE(Django, Python, SQLite), DevOps(AWS, Nginx) <br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SMUeat](https://github.com/SMUeat/)
+  
+- **온라인 메모장**&nbsp;(2023) <br>
+: 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Spring Security, JWT, MySQL), DevOps(AWS) <br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[OnlineMemo](https://github.com/OnlineMemo/)
+
+- **SockSense**&nbsp;(2023) <br>
+: 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;BE(Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV) <br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SockSense](https://github.com/2023-Hackathon-TeamSMUD)
+
+<br>
+&#8594; 자세한 회고는 여기서!: <a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
+
 ---
 ## 💻 Skills
 
