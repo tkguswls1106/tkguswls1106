@@ -1,6 +1,6 @@
 ## 👋 Introduction
 - **Name**:&nbsp;&nbsp;사현진 (HYUNJIN SA)
-- **University**:&nbsp;&nbsp;Sangmyung Univ. Software 19th
+- **University**:&nbsp;&nbsp;Sangmyung Univ. Software
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Portfolio 📄`** : [Click here!](https://sahyunjin.com/)
 
