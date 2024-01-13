@@ -31,7 +31,7 @@
 
 - **SockSense**&nbsp;(2023) <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, Team Leader <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;BE(Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV) <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SockSense](https://github.com/2023-Hackathon-TeamSMUD)
 
