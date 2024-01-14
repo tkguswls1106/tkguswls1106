@@ -36,7 +36,7 @@
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SockSense](https://github.com/2023-Hackathon-TeamSMUD)
 
 <br>
-&#8594; 자세한 회고는 여기서!: <a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
+&#8594;&nbsp;&nbsp;자세한 회고는 여기서!&nbsp;:&nbsp;&nbsp;<a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
 
 ---
 ## 💻 Skills
