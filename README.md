@@ -61,7 +61,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
-##### interested in <br> &#8594;&nbsp;&nbsp;BackEnd:&nbsp;&nbsp;Java Spring <br> &#8594;&nbsp;&nbsp;DevOps:&nbsp;&nbsp;&nbsp;AWS(Elastic Beanstalk, Load Balancer, CloudWatch...)
+<br>
+
+**🛠&nbsp;&nbsp;interested in** <br>
+&#8594;&nbsp;&nbsp;BackEnd:&nbsp;&nbsp;Java Spring <br>
+&#8594;&nbsp;&nbsp;DevOps:&nbsp;&nbsp;&nbsp;AWS(Elastic Beanstalk, Load Balancer, CloudWatch...)
+
 ---
 ## 📈 GitHub Stats
 <div align=left>
