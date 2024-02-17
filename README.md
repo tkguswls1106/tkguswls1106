@@ -14,7 +14,7 @@
 |Google Developer Student Clubs (GDSC) SMU 2기|2022.08 ~ 2023.09|수료 (Backend Developer / Spring)|
 |'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App<a/> 출시|
 |SW 융합 클러스터 2.0 해커톤 / 팀장 & BackEnd Developer|2023.09.23|최우수상 수상 🏆|
-|9oormthon Univ. SMU 2기|2024.02 ~ (2024.08)|진행중 (Backend Developer / Spring)|
+|9oormthon Univ. SMU 1기 (미르미 2기)|2024.02 ~ (2024.08)|진행중 (Backend Developer / Spring)|
 
 ---
 ## 🧑‍💻 Projects
