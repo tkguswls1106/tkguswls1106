@@ -40,7 +40,7 @@
 : 효율적인 의사소통을 위한 공지 서비스 (PWA) <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Spring Security, JWT, MySQL, Firebase Cloud Messaging <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter (still refactoring)](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter (~ still refactoring)](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
 
 - **Dev Race**&nbsp;(2024) <br>
 : 실시간 코딩 경쟁 및 채팅 서비스 <br>
