@@ -33,8 +33,21 @@
 - **SockSense**&nbsp;(2023) <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, Team Leader <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;BE(Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV) <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SockSense](https://github.com/2023-Hackathon-TeamSMUD)
+
+- **가정통신문**&nbsp;(2024) <br>
+: 효율적인 의사소통을 위한 공지 서비스 (PWA) <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Spring Security, JWT, MySQL, Firebase Cloud Messaging <br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter (still refactoring)](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
+
+- **Dev Race**&nbsp;(2024) <br>
+: 실시간 코딩 경쟁 및 채팅 서비스 <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;Project Manager, BackEnd, DevOps <br>
+&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
+&#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions <br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;~ing
 
 <br>
 &#8594; 자세한 회고는 여기서! : <a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
