@@ -47,7 +47,7 @@
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;Project Manager, BackEnd, DevOps <br>
 &#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
 &#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/tkguswls1106/DevRace-Readme)
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/Dev-Race/DevRace-backend)
 
 <br>
 &#8594; 자세한 회고는 여기서! : <a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
