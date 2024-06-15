@@ -46,7 +46,7 @@
 : 실시간 코딩 경쟁 및 채팅 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;Project Manager, BackEnd, DevOps <br>
 &#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
-&#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions <br>
+&#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions + Slack <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/Dev-Race/DevRace-backend)
 
 <br>
