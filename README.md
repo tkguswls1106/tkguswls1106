@@ -10,10 +10,10 @@
 |상명대학교 소프트웨어학과|2019.03 ~|-|
 |정보보안동아리 Code Cure|2019.04 ~ 2019.10|-|
 |'상명대eat' 서비스 운영|2022.08 ~ 2023.09|운영기간: 1년 / 서비스 종료|
-|Google Developer Student Clubs. SMU 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
+|Google Developer Student Clubs - SMU 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
 |'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
 |SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆|
-|Kakao x 9oormthon Univ. SMU 1기 (미르미 2기)|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
+|Kakao x 9oormthon Univ - SMU 1기 (미르미 2기)|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
 |INTERN - BigData Team|2024.07 ~|FullStack Developer<br>(Network Pharmacology Service)|
 
 ---
