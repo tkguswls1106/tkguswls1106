@@ -2,6 +2,7 @@
 - **Name**:&nbsp;&nbsp;사현진 (HYUNJIN SA)
 - **University**:&nbsp;&nbsp;Sangmyung Univ. Software
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
+- **`Tech Blog 🔧`** : [Click here!](https://velog.io/@tkguswls1106/series)
 - **`Portfolio 📄`** : [Click here!](https://sahyunjin.site/)
 
 ## ✨ Experiences
