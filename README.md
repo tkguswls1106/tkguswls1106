@@ -1,6 +1,8 @@
 ## 👋 Introduction
 - **Name**:&nbsp;&nbsp;사현진
+<!-- - **University**:&nbsp;&nbsp;Sangmyung Univ. Software -->
 - **University**:&nbsp;&nbsp;Sangmyung Univ. Software
+- **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업 예정)
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Tech Blog 🔧`** : [Click here!](https://velog.io/@tkguswls1106/series)
 <!-- - **`Portfolio 📄`** : [Click here!](https://sahyunjin.site/) -->
@@ -32,7 +34,7 @@
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Spring Security, JWT, MySQL), DevOps(AWS) <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[OnlineMemo](https://github.com/OnlineMemo/)
 
-- **SockSense**&nbsp;(2023) <br>
+- **Sock Sense**&nbsp;(2023) <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, Team Leader <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV <br>
