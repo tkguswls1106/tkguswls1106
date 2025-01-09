@@ -53,7 +53,7 @@
 - **스마트 카트**&nbsp;(2024) <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
-&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShopping API<br>
+&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShopping API<br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SmartCart](https://github.com/KMS-SmartCart/SmartCart-backend)
 
 <!--
