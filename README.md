@@ -1,6 +1,6 @@
 ## 👋 Introduction
 - **Name**:&nbsp;&nbsp;사현진
-- **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업 예정)
+- **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Tech Blog 🔧`** : [Click here!](https://velog.io/@tkguswls1106/series)
 <!-- - **University**:&nbsp;&nbsp;Sangmyung Univ. Software -->
@@ -9,7 +9,7 @@
 ## ✨ Experiences
 |활동|기간|비고|
 |---|---|---|
-|상명대학교 소프트웨어학과|2019.03 ~|-|
+|상명대학교 소프트웨어학과|2019.03 ~ 2025.02|(졸업 예정)|
 |정보보안동아리 Code Cure|2019.04 ~ 2019.10|-|
 |'상명대eat' 서비스 운영|2022.08 ~ 2023.09|운영기간: 1년 / 서비스 종료|
 |Google Developer Student Clubs. 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
