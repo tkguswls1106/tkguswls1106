@@ -16,6 +16,7 @@
 |SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆|
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
 |(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer<br>(Network Pharmacology Service)|
+<!-- |SW 코딩프로젝트 공모전|2024.12|수상&nbsp;&nbsp;🏆| -->
 
 ---
 ## 🧑‍💻 Projects
@@ -53,7 +54,7 @@
 - **스마트 카트**&nbsp;(2024) <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
-&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShopping API<br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShop API<br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SmartCart](https://github.com/KMS-SmartCart/SmartCart-backend)
 
 <!--
