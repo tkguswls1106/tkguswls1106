@@ -50,8 +50,16 @@
 &#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions + Slack <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/Dev-Race/DevRace-backend)
 
+- **스마트 카트**&nbsp;(2024) <br>
+: 온/오프라인 마트 최저가 비교 서비스 <br>
+&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
+&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShopping API<br>
+&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SmartCart](https://github.com/KMS-SmartCart/SmartCart-backend)
+
+<!--
 <br>
 &#8594; 자세한 회고는 여기서! : <a href="https://sahyunjin.notion.site/ee2574f945b6446f817f081cbfb67e1e?v=f649d14ec1b24cb8be65b0999c269900&pvs=4">Click!</a>
+-->
 
 ---
 ## 💻 Skills
@@ -60,12 +68,12 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/></a>
 
 #### [ Front-End ]
 <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django Template Engine-092E20?style=flat-square&logo=Django&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -80,7 +88,7 @@
 
 **🛠&nbsp;&nbsp;interested in** <br>
 &#8594;&nbsp;&nbsp;BackEnd:&nbsp;&nbsp;Java Spring <br>
-&#8594;&nbsp;&nbsp;DevOps:&nbsp;&nbsp;&nbsp;AWS(Elastic Beanstalk, RDS, CloudWatch...)
+&#8594;&nbsp;&nbsp;DevOps:&nbsp;&nbsp;&nbsp;AWS (Elastic Beanstalk, RDS, CloudWatch...)
 
 ---
 ## 📈 Stats
