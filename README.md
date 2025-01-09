@@ -1,10 +1,9 @@
 ## 👋 Introduction
 - **Name**:&nbsp;&nbsp;사현진
-<!-- - **University**:&nbsp;&nbsp;Sangmyung Univ. Software -->
-- **University**:&nbsp;&nbsp;Sangmyung Univ. Software
 - **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업 예정)
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Tech Blog 🔧`** : [Click here!](https://velog.io/@tkguswls1106/series)
+<!-- - **University**:&nbsp;&nbsp;Sangmyung Univ. Software -->
 <!-- - **`Portfolio 📄`** : [Click here!](https://sahyunjin.site/) -->
 
 ## ✨ Experiences
