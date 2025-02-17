@@ -102,3 +102,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=stars&card_width=318" style="height : 165px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318" />
 </div>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/6d84f779-beee-40e4-8739-1eccbbb1c72c" style="width : 641px;" /><br>
+<img src="https://ghchart.rshah.org/062414/tkguswls1106" style="width : 620px;" /><br>
+&#8594;&nbsp;&nbsp;<i>contributions in&nbsp;&nbsp;2022 ~ 2025</i>
