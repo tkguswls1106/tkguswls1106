@@ -17,7 +17,7 @@
 |SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆|
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
 |(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer<br>(Network Pharmacology Service)|
-|SW 코딩프로젝트 공모전|2024.12.10|공모전 수상&nbsp;&nbsp;🏆|
+|SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆|
 
 ---
 ## 🧑‍💻 Projects
