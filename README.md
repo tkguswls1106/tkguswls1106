@@ -106,5 +106,5 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/1abd0b2d-fff7-4206-b992-a7eaa803f8c8" style="width : 641px;" /><br>
-<img src="https://ghchart.rshah.org/062414/tkguswls1106" style="width : 620px;" /><br>
+<img src="https://ghchart.rshah.org/062414/tkguswls1106" style="width : 620px;" /><br><br>
 &#8594;&nbsp;&nbsp;***contributions in&nbsp;&nbsp;2022 ~ 2025***
