@@ -106,5 +106,5 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/172356aa-3b82-4f11-ace4-de776fb1ed99" style="width : 641px;" /><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ghchart.rshah.org/062414/tkguswls1106" style="width : 601px;" /><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ghchart.rshah.org/062414/tkguswls1106" style="width : 602px;" /><br><br>
 &#8594;&nbsp;&nbsp;***contributions in&nbsp;&nbsp;2022 ~ 2025***&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://velog.io/@tkguswls1106/Github-%EC%95%BD-3%EB%85%84-%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%97%90%EA%B2%8C-1%EC%9D%BC1%EC%BB%A4%EB%B0%8B%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EC%9D%98%EB%AF%B8%EC%98%80%EB%8A%94%EA%B0%80">회고</a>
