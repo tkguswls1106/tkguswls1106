@@ -16,7 +16,7 @@
 |'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
 |SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆|
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
-|(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer<br>(Network Pharmacology Service)|
+|(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer<br><a href="https://omnimix-ai.com/">(Network Pharmacology Service)</a>|
 |SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆|
 
 ---
@@ -27,7 +27,7 @@
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Django Template Engine), BE(Django, Python, SQLite), DevOps(AWS) <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SMUeat](https://github.com/SMUeat/)
   
-- **온라인 메모장**&nbsp;(2023) <br>
+- **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FFEB01}Main}}$ <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Spring Security, JWT, MySQL), DevOps(AWS) <br>
@@ -45,7 +45,7 @@
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Spring Security, JWT, MySQL, Firebase Cloud Messaging <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
 
-- **Dev Race**&nbsp;(2024) <br>
+- **Dev Race**&nbsp;(2024) - ${\textsf{\color{#FFEB01}Main}}$ <br>
 : 실시간 코딩 경쟁 및 채팅 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, DevOps, Project Manager <br>
 &#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
