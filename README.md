@@ -33,7 +33,7 @@
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Spring Security, JWT, MySQL), DevOps(AWS) <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[OnlineMemo](https://github.com/OnlineMemo/)
 
-- **Sock Sense**&nbsp;(2023) <br>
+- **Sock Sense**&nbsp;(2023)&nbsp;&nbsp;🏆 <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, Team Leader <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Django, Python, MySQL, ChatGPT API, OpenCV <br>
@@ -52,7 +52,7 @@
 &#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions + Slack <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/Dev-Race/DevRace-backend)
 
-- **스마트 카트**&nbsp;(2024) <br>
+- **스마트 카트**&nbsp;(2024)&nbsp;&nbsp;🏆 <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShop API<br>
