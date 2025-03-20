@@ -30,7 +30,7 @@
 - **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FFEB01}Main}}$ <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Spring Security, JWT, MySQL), DevOps(AWS) <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Security, JWT, MySQL), DevOps(AWS) <br>
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[OnlineMemo](https://github.com/OnlineMemo/)
 
 - **Sock Sense**&nbsp;(2023)&nbsp;&nbsp;🏆 <br>
