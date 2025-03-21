@@ -99,8 +99,10 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkguswls1106)](https://solved.ac/tkguswls1106) -->
 
 <div align=left>
-    <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=stars&card_width=318" style="height : 165px;" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=stars&card_width=318" style="height : 165px;" /> -->
+    <img src="https://github-readme-stats-theta-ten-43.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=stars&card_width=318" style="height : 165px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318" />
+    <!-- <img src="https://github-readme-stats-theta-ten-43.vercel.app/api/top-langs/?username=tkguswls1106&layout=compact&theme=gotham&hide=jupyter%20notebook&card_width=318" /> -->
 </div>
 
 <br>
