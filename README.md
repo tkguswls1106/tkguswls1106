@@ -3,21 +3,18 @@
 - **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업)
 - **Email**:&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Tech Blog 🔧`** : [Click here!](https://velog.io/@tkguswls1106/series)
-<!-- - **University**:&nbsp;&nbsp;Sangmyung Univ. Software -->
-<!-- - **`Portfolio 📄`** : [Click here!](https://sahyunjin.site/) -->
 
 ## ✨ Experiences
 |활동|기간|비고|
 |---|---|---|
 |상명대학교 소프트웨어학과|2019.03 ~ 2025.02|졸업|
-|정보보안동아리 Code Cure|2019.04 ~ 2019.10|-|
 |'상명대eat' 서비스 운영|2022.08 ~ 2023.09|운영기간: 1년 / 서비스 종료|
 |Google Developer Student Clubs. 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
 |'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
-|SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆|
+|SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;과학기술정보통신부|
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
-|(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer<br><a href="https://omnimix-ai.com/">(Network Pharmacology Service)</a>|
-|SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆|
+|(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
+|SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
 
 ---
 ## 🧑‍💻 Projects
