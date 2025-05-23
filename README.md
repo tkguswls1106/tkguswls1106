@@ -28,7 +28,7 @@
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SMUeat](https://github.com/SMUeat/)
   
 <!-- - **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FFEB01}Main}}$ <br> -->
-- **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#EDA720}Main}}$ <br>
+- **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FF8D45}Main}}$ <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Security, JWT, MySQL), DevOps(AWS) <br>
@@ -47,7 +47,7 @@
 &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
 
 <!-- - **Dev Race**&nbsp;(2024) - ${\textsf{\color{#FFEB01}Main}}$ <br> -->
-- **Dev Race**&nbsp;(2024) - ${\textsf{\color{#EDA720}Main}}$ <br>
+- **Dev Race**&nbsp;(2024) - ${\textsf{\color{#FF8D45}Main}}$ <br>
 : 실시간 코딩 경쟁 및 채팅 서비스 <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, DevOps, Project Manager <br>
 &#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
