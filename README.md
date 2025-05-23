@@ -18,44 +18,28 @@
 
 ---
 ## 🧑‍💻 Projects
-- **상명대 eat**&nbsp;(2022) <br>
-: 상명대학교 주변 식당 순위표 서비스 <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Django Template Engine), BE(Django, Python, SQLite), DevOps(AWS) <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SMUeat](https://github.com/SMUeat/)
-  
-<!-- - **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FFEB01}Main}}$ <br> -->
-- **온라인 메모장**&nbsp;(2023) - ${\textsf{\color{#FF8D45}Main}}$ <br>
+
+- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023) - ${\textsf{\color{#FF8D45}Main}}$ <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, DevOps <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React, React Native, JS), BE(Spring Boot, Java, Security, JWT, MySQL), DevOps(AWS) <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[OnlineMemo](https://github.com/OnlineMemo/)
+&#8594; ***role***&nbsp;:&nbsp;&nbsp;`FullStack`, `DevOps` <br>
+&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL <br>
+&#8594; ***Skills(FE)***&nbsp;:&nbsp;&nbsp;React, React Native, JS
 
-- **Sock Sense**&nbsp;(2023)&nbsp;&nbsp;🏆 <br>
+- **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;🏆 <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, Team Leader <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Django, Python, ChatGPT API, OpenCV <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SockSense](https://github.com/2023-Hackathon-TeamSMUD)
+&#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API&nbsp;&nbsp;**|**&nbsp;&nbsp;Django, Python, OpenCV
 
-- **가정통신문**&nbsp;(2024) <br>
-: 효율적인 의사소통을 위한 공지 서비스 (PWA) <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, Spring Security, JWT, MySQL, Firebase Cloud Messaging <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[Newsletter](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_BE)
-
-<!-- - **Dev Race**&nbsp;(2024) - ${\textsf{\color{#FFEB01}Main}}$ <br> -->
-- **Dev Race**&nbsp;(2024) - ${\textsf{\color{#FF8D45}Main}}$ <br>
+- **[Dev Race](https://github.com/Dev-Race/DevRace-backend)**&nbsp;(2024) - ${\textsf{\color{#FF8D45}Main}}$ <br>
 : 실시간 코딩 경쟁 및 채팅 서비스 <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd, DevOps, Project Manager <br>
-&#8594; ***Skills_BE***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;MySQL, MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;STOMP, RabbitMQ <br>
-&#8594; ***Skills_DevOps***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions + Slack <br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[DevRace](https://github.com/Dev-Race/DevRace-backend)
+&#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd`, `DevOps`, `PM` <br>
+&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;OAuth2, STOMP, RabbitMQ&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, MongoDB <br>
+&#8594; ***Skills(DO)***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions
 
-- **스마트 카트**&nbsp;(2024)&nbsp;&nbsp;🏆 <br>
+- **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;🏆 <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
-&#8594; ***my role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;|&nbsp;&nbsp;Security, JWT, OAuth2&nbsp;&nbsp;|&nbsp;&nbsp;ChatGPT API, NaverShop API<br>
-&#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[SmartCart](https://github.com/KMS-SmartCart/SmartCart-backend)
+&#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API, NaverShop API
 
 <!--
 <br>
