@@ -19,27 +19,31 @@
 ---
 ## 🧑‍💻 Projects
 
-- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023) - ${\textsf{\color{#FF8D45}Main}}$ <br>
+- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023) <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`FullStack`, `DevOps` <br>
 &#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL <br>
-&#8594; ***Skills(FE)***&nbsp;:&nbsp;&nbsp;React, React Native, JS
+&#8594; ***Skills(FE)***&nbsp;:&nbsp;&nbsp;React, React Native, JS<img src="https://github.com/user-attachments/assets/9193d64b-6237-474b-934d-d95aa0ae1c93" width="82%" />
 
-- **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;🏆 <br>
+- **[Dev Race](https://github.com/Dev-Race/DevRace-backend)**&nbsp;(2024) <br>
+: 실시간 코딩 경쟁 및 채팅 서비스 <br>
+&#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd`, `DevOps`, `PM` <br>
+&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;OAuth2, STOMP, RabbitMQ&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, MongoDB <br>
+&#8594; ***Skills(DO)***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions<img src="https://github.com/user-attachments/assets/5efa4106-c2ee-40c0-932e-afec9126fa1c" width="82%" />
+
+<details>
+  <summary>&nbsp;<strong>Other Projects</strong>&nbsp;:&nbsp;Open!</summary>
+
+- **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;-&nbsp;&nbsp;과학기술정보통신부&nbsp;&nbsp;🏆 <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API&nbsp;&nbsp;**|**&nbsp;&nbsp;Django, Python, OpenCV
 
-- **[Dev Race](https://github.com/Dev-Race/DevRace-backend)**&nbsp;(2024) - ${\textsf{\color{#FF8D45}Main}}$ <br>
-: 실시간 코딩 경쟁 및 채팅 서비스 <br>
-&#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd`, `DevOps`, `PM` <br>
-&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;OAuth2, STOMP, RabbitMQ&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, MongoDB <br>
-&#8594; ***Skills(DO)***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions
-
-- **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;🏆 <br>
+- **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;-&nbsp;&nbsp;SW 중심대학사업단&nbsp;&nbsp;🏆 <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API, NaverShop API
+</details>
 
 <!--
 <br>
