@@ -13,7 +13,7 @@
 |'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
 |SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;과학기술정보통신부|
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
-|(주)Fiveworks 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
+|(주)파이브웍스 인턴 - BigData Team|2024.07 ~ 2024.09|FullStack Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
 |SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
 
 ---
