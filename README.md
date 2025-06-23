@@ -22,7 +22,7 @@
 - **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023) <br>
 : 공동 작성이 가능한 메모장 서비스 (Web & App) <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`FullStack`, `DevOps` <br>
-&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL <br>
+&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, Redis <br>
 &#8594; ***Skills(FE)***&nbsp;:&nbsp;&nbsp;React, React Native, JS<img src="https://github.com/user-attachments/assets/9193d64b-6237-474b-934d-d95aa0ae1c93" width="82%" />
 
 - **[Dev Race](https://github.com/Dev-Race/DevRace-backend)**&nbsp;(2024) <br>
