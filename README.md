@@ -15,6 +15,7 @@
 |Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
 |(주)파이브웍스 인턴 - BigData Team|2024.07 ~ 2024.09|Backend Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
 |SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
+|네이버 부스트캠프 웹 · 모바일 10기|2025.06 ~ 2025.07|수료&nbsp;&nbsp;[Web FullStack - Basic]|
 
 ---
 ## 🧑‍💻 Projects
