@@ -26,7 +26,7 @@
 &#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;OAuth2, STOMP, RabbitMQ&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, MongoDB <br>
 &#8594; ***Skills(DO)***&nbsp;:&nbsp;&nbsp;AWS Elastic Beanstalk, Docker, Github Actions<img src="https://github.com/user-attachments/assets/5efa4106-c2ee-40c0-932e-afec9126fa1c" width="82%" />
 
-- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023 ~ 운영 중)&nbsp;&nbsp;-&nbsp;&nbsp;가입자 1200명, 실사용자 월 210명&nbsp;&nbsp;📈 <br>
+- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023 · 운영 중)&nbsp;&nbsp;-&nbsp;&nbsp;가입자 1200명, 실사용자 월 210명&nbsp;&nbsp;📈 <br>
 : 공동 편집 가능한 경량화 메모장 (Web & App) <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`FullStack`, `DevOps` <br>
 &#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, Redis <br>
