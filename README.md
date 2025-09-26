@@ -29,7 +29,7 @@
 - **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023 · 운영 중)&nbsp;&nbsp;-&nbsp;&nbsp;가입자 1200명, 실사용자 월 210명&nbsp;&nbsp;📈 <br>
 : 공동 편집 가능한 경량화 메모장 (Web & App) <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`FullStack`, `DevOps` <br>
-&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, Redis <br>
+&#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, Redis&nbsp;&nbsp;**|**&nbsp;&nbsp;OpenAI <br>
 &#8594; ***Skills(FE)***&nbsp;:&nbsp;&nbsp;React, React Native, JS<img src="https://github.com/user-attachments/assets/c60b3264-7452-4926-bb4c-720ab2429ffb" width="82%" />
 
 <details>
@@ -38,12 +38,12 @@
 - **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;-&nbsp;&nbsp;SW 중심대학사업단&nbsp;&nbsp;🏆 <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API, NaverShop API
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, OpenAI, NaverShop API
 
 - **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;-&nbsp;&nbsp;과학기술정보통신부&nbsp;&nbsp;🏆 <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, ChatGPT API&nbsp;&nbsp;**|**&nbsp;&nbsp;Django, Python, OpenCV
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, OpenAI&nbsp;&nbsp;**|**&nbsp;&nbsp;Django, Python, OpenCV
 </details>
 
 <!--
