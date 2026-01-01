@@ -20,7 +20,7 @@
 ---
 ## 🧑‍💻 Projects
 
-- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023 ~ 2025 / 운영 중)&nbsp;&nbsp;-&nbsp;&nbsp;가입자 1300명, 실사용자 월 240명&nbsp;&nbsp;📈 <br>
+- **[온라인 메모장](https://github.com/OnlineMemo/)**&nbsp;(2023 ~ 2025 / 운영 중)&nbsp;&nbsp;-&nbsp;&nbsp;가입자 1600명, 실사용자 월 320명&nbsp;&nbsp;📈 <br>
 : 공동 편집 가능한 경량화 메모장 (Web & App) <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`Backend`, `Frontend`, `DevOps` <br>
 &#8594; ***Skills(BE)***&nbsp;:&nbsp;&nbsp;Spring Boot, Java&nbsp;&nbsp;**|**&nbsp;&nbsp;Spring Security, JWT&nbsp;&nbsp;**|**&nbsp;&nbsp;MySQL, Redis&nbsp;&nbsp;**|**&nbsp;&nbsp;OpenAI <br>
