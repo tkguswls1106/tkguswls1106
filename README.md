@@ -16,7 +16,7 @@
 |(주)파이브웍스 인턴 - BigData Team|2024.07 ~ 2024.09|Backend Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
 |SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
 |네이버 부스트캠프 웹 · 모바일 10기|2025.06 ~ 2025.07|수료&nbsp;&nbsp;[Web FullStack - Basic]|
-|(주)모두닥 인턴 - 제품개발 · 백두산 Team<br/>(주)모두닥 정규직 - 제품개발 · 백두산 Team|2025.12 ~ 2026.03<br/>2026.03 ~|Product Enginner / <a href="https://www.modoodoc.com/">MoDooDoc<a> 개발|
+|(주)모두닥 인턴 - 제품개발 · 백두산 Team<br/>(주)모두닥 정규직 - 제품개발 · 백두산 Team|2025.12 ~ 2026.03<br/>2026.03 ~|Product Engineer / <a href="https://www.modoodoc.com/">MoDooDoc<a> 개발|
 
 ---
 ## 🧑‍💻 Projects
