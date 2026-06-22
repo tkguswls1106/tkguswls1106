@@ -90,7 +90,7 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkguswls1106)](https://solved.ac/tkguswls1106/) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkguswls1106)](https://solved.ac/tkguswls1106) -->
 <div align=left>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkguswls1106" style="height : 160px;" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkguswls1106" style="height : 159.7px;" />
   <img src="https://github-readme-stats-theta-ten-43.vercel.app/api?username=tkguswls1106&count_private=true&show_icons=true&theme=gotham&hide_rank=true&hide=stars&include_all_commits=true&card_width=318" style="height : 160px;" />
 </div>
 
