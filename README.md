@@ -9,16 +9,16 @@
 ## ✨ Experiences
 |활동|기간|비고|
 |---|---|---|
-|상명대학교 소프트웨어학과|2019.03 ~ 2025.02|졸업 : 학점 4.07 / 4.5|
-|'상명대eat' 서비스 운영|2022.08 ~ 2023.09|운영기간: 1년 / 서비스 종료|
-|Google Developer Student Clubs. 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
-|'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
-|SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;과학기술정보통신부|
-|Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
-|(주)파이브웍스 인턴 - BigData Team|2024.07 ~ 2024.09|Backend Developer / <a href="https://omnimix-ai.com/">Omnimix<a> 개발|
-|SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
+|(주)모두닥 정규직 - 제품개발 · 백두산 Team<br/>(주)모두닥 인턴 - 제품개발 · 백두산 Team|2026.03 ~<br/>2025.12 ~ 2026.03|Product Engineer / <a href="https://www.modoodoc.com/">MoDooDoc</a> 개발|
 |네이버 부스트캠프 웹 · 모바일 10기|2025.06 ~ 2025.07|수료&nbsp;&nbsp;[Web FullStack - Basic]|
-|(주)모두닥 인턴 - 제품개발 · 백두산 Team<br/>(주)모두닥 정규직 - 제품개발 · 백두산 Team|2025.12 ~ 2026.03<br/>2026.03 ~|Product Engineer / <a href="https://www.modoodoc.com/">MoDooDoc<a> 개발|
+|SW 코딩프로젝트 공모전 - Backend|2024.12.10|공모전 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;SW 중심대학사업단|
+|(주)파이브웍스 인턴 - BigData Team|2024.07 ~ 2024.09|Backend Developer / <a href="https://omnimix-ai.com/">Omnimix</a> 개발|
+|Kakao x 9oormthon Univ. 2기|2024.02 ~ 2024.08|수료&nbsp;&nbsp;[Backend Developer]|
+|SW 융합 클러스터 2.0 해커톤 - 팀장 & Backend|2023.09.23|최우수상 수상&nbsp;&nbsp;🏆 /&nbsp;&nbsp;과학기술정보통신부|
+|'온라인메모장' 서비스 운영|2023.09 ~|운영기간: ing / <a href="https://www.onlinememo.kr">Web</a>, <a href="https://play.google.com/store/apps/details?id=com.shj.onlinememo">App</a> 출시|
+|Google Developer Student Clubs. 2기|2022.08 ~ 2023.09|수료&nbsp;&nbsp;[Backend Developer]|
+|'상명대eat' 서비스 운영|2022.08 ~ 2023.09|운영기간: 1년 / 서비스 종료|
+|상명대학교 소프트웨어학과|2019.03 ~ 2025.02|졸업 : 학점 4.07 / 4.5|
 
 ---
 ## 🧑‍💻 Projects
@@ -38,12 +38,12 @@
 <details>
   <summary>&nbsp;<strong>Other Projects</strong>&nbsp;:&nbsp;Open!</summary>
 
-- **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;-&nbsp;&nbsp;과학기술정보통신부&nbsp;&nbsp;🏆 <br>
+- **[Sock Sense](https://github.com/2023-Hackathon-TeamSMUD)**&nbsp;(2023)&nbsp;&nbsp;-&nbsp;&nbsp;과학기술정보통신부 `최우수상`&nbsp;&nbsp;🏆 <br>
 : 시각장애인을 위한 양말 판별 및 맞춤형 코디 추천 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, OpenAI&nbsp;&nbsp;**|**&nbsp;&nbsp;Django, Python, OpenCV
 
-- **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;-&nbsp;&nbsp;SW 중심대학사업단&nbsp;&nbsp;🏆 <br>
+- **[스마트 카트](https://github.com/KMS-SmartCart/SmartCart-backend)**&nbsp;(2024)&nbsp;&nbsp;-&nbsp;&nbsp;SW 중심대학사업단 `우수상`&nbsp;&nbsp;🏆 <br>
 : 온/오프라인 마트 최저가 비교 서비스 <br>
 &#8594; ***role***&nbsp;:&nbsp;&nbsp;`BackEnd` <br>
 &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Spring Boot, Java, OpenAI, NaverShop API
