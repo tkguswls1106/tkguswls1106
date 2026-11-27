@@ -4,7 +4,7 @@
 - **Email** :&nbsp;&nbsp;tkguswls1106@naver.com
 - **`Tech Blog 🔧`** :&nbsp;&nbsp;[Click here!](https://velog.io/@tkguswls1106/series)
 
-[![velog](https://velo-card.profilecard.workers.dev/api?name=tkguswls1106&theme=dark&count=4&width=545&title=%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8&hide_profile=true)](https://velog.io/@tkguswls1106)
+[![velog](https://velo-card.profilecard.workers.dev/api?name=tkguswls1106&theme=dark&count=4&width=590&title=%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8&hide_profile=true)](https://velog.io/@tkguswls1106)
 
 ## ✨ Experiences
 |활동|기간|비고|
